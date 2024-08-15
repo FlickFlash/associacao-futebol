@@ -1,2 +1,5 @@
-*.xlsx
+/Excel/
+/Excel/*.xlsx
 token.txt
+/CSV/
+/CSV/*.csv
