@@ -34,7 +34,5 @@ Nomes válidos:
 REMOVER_T01B01.xlsx
 remover_T10B09.xlsx
 rEmOvEr_T21B22.xlsx
-REMOVER_T01B01.csv
-REMOVER_T01B01.txt
 
 É utilizado somente o nome desse arquivo para remover os dados dos outros arquivos, portanto, o conteúdo dentro desse arquivo não tem relevância.
