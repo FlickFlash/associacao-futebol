@@ -1,0 +1,6 @@
+Erros no registro dos resultados de partidas: 
+Verificação: Vitórias e Derrotas devem ser iguais, e o número de Empates deve ser par. 
+Baba: T11B01 | Empates: 7
+Baba: T11B02 | Empates: 9
+Baba: T11B03 | Empates: 5
+Baba: T11B04 | Empates: 5
